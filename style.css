@@ -447,6 +447,12 @@ span{
 
     }
 
+    .about-img{
+        width: 40vw;
+        margin-top: 4rem;
+
+    }
+
     .services {
         padding-bottom: 7rem;
     }
@@ -557,6 +563,11 @@ span{
 
     }
 
+    .about-img img {
+        width: 40vw;
+        margin-top: 4rem;
+    }
+
     .contact form input-box input{
         width: 100%;
 
@@ -570,7 +581,8 @@ span{
     }
 
     .about-img img {
-        width: 150vw;
+        width: 40vw;
+        margin-top: 4rem;
     }
 
     .footer{
