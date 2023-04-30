@@ -185,8 +185,10 @@ span{
 }
 
 .about-img img{
-    width: 100vw;
-   
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    max-width: 100%;
  
 }
 
