@@ -47,7 +47,7 @@ ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Oyun Tasarımı', '3D Modelleme', 'Yazılım', 'Pixel Tasarım'],
+    strings: ['Oyun Tasarımı', '3D Modelleme', 'C# Programlama', 'Piksel Tasarım'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
