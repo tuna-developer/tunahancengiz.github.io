@@ -8,6 +8,7 @@ menuIcon.onclick = () => {
 };
 
 
+
 let section = document.querySelectorAll('section');
 let navKinks = document.querySelectorAll('header nav a');
 
